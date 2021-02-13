@@ -1,4 +1,4 @@
-# Rtorch 튜토리얼: The R's native deep learning library <a href='https://torch.mlverse.org'><img src='man/figures/torch.png' align="right" height="139" /></a>
+# Rtorch 튜토리얼: The R's native deep learning library <a href='https://torch.mlverse.org'><img src='figures/torch.png' align="right" height="139" /></a>
 R의 native한 딥러닝 라이브러리 {torch} 튜토리얼
 
 * torch 튜토리얼: Still in progress :sweat:
